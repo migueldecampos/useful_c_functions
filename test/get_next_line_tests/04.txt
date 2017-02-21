@@ -1,0 +1,2 @@
+The file descriptor associated with this file will be closed before
+being fed to get_next_line. Let's see how this goes.
